@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20537" started-at="2021-08-23T12:57:29Z" finished-at="2021-08-23T12:57:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20537" started-at="2021-08-23T12:57:29Z" finished-at="2021-08-23T12:57:50Z">
+      <class name="com.jbk.thirtybees.test.MyaccountTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jbk.thirtybees.test.MyaccountTest@4e9ba398]" name="setup" is-config="true" duration-ms="9502" started-at="2021-08-23T18:27:29Z" finished-at="2021-08-23T18:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifymyaccount()[pri:0, instance:com.jbk.thirtybees.test.MyaccountTest@4e9ba398]" name="verifymyaccount" duration-ms="11006" started-at="2021-08-23T18:27:39Z" finished-at="2021-08-23T18:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymyaccount -->
+      </class> <!-- com.jbk.thirtybees.test.MyaccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
